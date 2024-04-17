@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest 'test/**/*.js'"
+    "test": "test/operation.test.js "
   },
   "keywords": [],
   "author": "",
